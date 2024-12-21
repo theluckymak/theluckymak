@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @theluckymak
-- 👀 I’m interested in many things and programing is one of them i just started learning java so yeah
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : insta :@theluckymak or whatssap :+21628278763
+- 👀 I’m interested in many things and programing is one of them im also intrested in traiding ecom and crypto and many other stuff
+- 🌱 I’m currently learning programing and traiding
+- 💞️ I’m looking to collaborate on many subjects
+- 📫 How to reach me : insta or telegram :@theluckymak
 
 <!---
 theluckymak/theluckymak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
